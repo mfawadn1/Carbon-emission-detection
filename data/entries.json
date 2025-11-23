@@ -1,0 +1,13 @@
+[
+  {
+    "entry_id": "entry_bbb114a389",
+    "user_id": "user_test@gmail.com",
+    "timestamp": "2025-11-23T13:06:19Z",
+    "type": "transport",
+    "details": {
+      "vehicle_type": "car_petrol",
+      "km": 0.36000000000000015
+    },
+    "emissions_kgco2": 0.0691
+  }
+]
